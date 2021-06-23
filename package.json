@@ -1,0 +1,13 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nautilytics/image-resizer.git",
+  "author": "Chris <chris.lanoue@premise.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "sharp": "^0.28.3"
+  }
+}
